@@ -1,3 +1,4 @@
+// Autor: Victor Alan 2C 13.11.2024
 criaCartao(
     'Programação',
     'O que é Python?',
