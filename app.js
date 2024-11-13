@@ -1,3 +1,4 @@
+// Autor: Victor Alan 2C 13.11.2024
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
